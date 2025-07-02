@@ -36,7 +36,7 @@ To define and visualize the functional scope of the Airbnb backend system using 
 - Search for properties by location, date, and price
 - View property details and availability
 - Book a selected property
-- View/cancel upcoming or past bookings
+- View/cancel upcoming or past booking
 
 #### Host Actions:
 - View booking requests
