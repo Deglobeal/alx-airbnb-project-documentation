@@ -86,5 +86,3 @@ The following diagram visually summarizes all key backend features:
 
 ---
 
-## 📂 File List
-
